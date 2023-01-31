@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: user_count
+    description: Number of users
+    columns:
+      - name: val
+        description: User ID
+
+ 
